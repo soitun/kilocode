@@ -1,5 +1,11 @@
 # kilo-code
 
+## 4.32.1
+
+### Patch Changes
+
+- [#541](https://github.com/Kilo-Org/kilocode/pull/541) [`6e14fce`](https://github.com/Kilo-Org/kilocode/commit/6e14fce02686c16482b0d5181c8fde9e4c3a7ca5) Thanks [@tru-kilo](https://github.com/tru-kilo)! - Fixed double scrollbars in profile dropdown
+
 ## 4.32.0
 
 ### Minor Changes
