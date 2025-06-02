@@ -1,6 +1,4 @@
-# kilo-code
-
-## 4.32.1
+# kilo-## 4.32.1
 
 ### Patch Changes
 
